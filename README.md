@@ -8,7 +8,7 @@ Utilizar uma base de dados com 100.000 clientes para prever, por meio de algorit
 
 ## 🛠️ Tecnologias
 
-Python 3.x
+Python 
 
 Pandas
 
